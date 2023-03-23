@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "corregp"]
+	path = corregp
+	url = https://github.com/cran/corregp
+	shallow = true
+	registered = true
+[submodule "svs"]
+	path = svs
+	url = https://github.com/cran/svs
+	shallow = true
+	registered = true
