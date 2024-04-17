@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "corregp"]
-	path = corregp
-	url = https://github.com/cran/corregp
 [submodule "svs"]
 	path = svs
 	url = https://github.com/cran/svs
